@@ -4,7 +4,7 @@
 
 - [**HOW TO USE IN A FEW STEPS**](#how-to-use-in-a-few-steps)
 <small>
-- [CREATE A MAP AND IMPORT IT](#create-a-map-and-import-it)
+- [**CREATE A MAP AND IMPORT IT**](#create-a-map-and-import-it)
 - [CREATE A TEXTURE AND IMPORT IT](#create-a-texture-and-import-it)
 - [HOW TO EXPLORE YOUR VIRTUAL ENVIRONMENT](#how-to-explore-your-virtual-environment)
 
