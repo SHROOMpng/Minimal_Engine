@@ -4,9 +4,9 @@
 
 - [**HOW TO USE IN A FEW STEPS**](#how-to-use-in-a-few-steps)
 <small>
-    - [CREATE A MAP AND IMPORT IT](#create-a-map-and-import-it)
-    - [CREATE A TEXTURE AND IMPORT IT](#create-a-texture-and-import-it)
-    - [HOW TO EXPLORE YOUR VIRTUAL ENVIRONMENT](#how-to-explore-your-virtual-environment)
+- [CREATE A MAP AND IMPORT IT](#create-a-map-and-import-it)
+- [CREATE A TEXTURE AND IMPORT IT](#create-a-texture-and-import-it)
+- [HOW TO EXPLORE YOUR VIRTUAL ENVIRONMENT](#how-to-explore-your-virtual-environment)
 
 </small>
 
@@ -14,15 +14,15 @@
 
 - [**HOW IT WORKS**](#how-it-works)
 <small>
-    - [INPUT FOLDERS](#input-folders)
-        - [Maps Folder](#maps-folder)
-        - [Textures Folder](#textures-folder)
-    - [SCRIPT](#script)
-        - [How to Update Script](#how-to-update-script)
-        - [Texture List Guide](#textures-list-guide)
-        - [Functioning 1: Which Map is Loaded](#functioning-1-which-map-is-loaded)
-        - [Functioning 2: Which Textures are Loaded](#functioning-2-which-textures-are-loaded)
-    - [DIRECTORY TREE](#directory-tree)
+- [INPUT FOLDERS](#input-folders)
+- [Maps Folder](#maps-folder)
+- [Textures Folder](#textures-folder)
+- [SCRIPT](#script)
+- [How to Update Script](#how-to-update-script)
+- [Texture List Guide](#textures-list-guide)
+- [Functioning 1: Which Map is Loaded](#functioning-1-which-map-is-loaded)
+- [Functioning 2: Which Textures are Loaded](#functioning-2-which-textures-are-loaded)
+- [DIRECTORY TREE](#directory-tree)
 
 </small>
 </h3>
